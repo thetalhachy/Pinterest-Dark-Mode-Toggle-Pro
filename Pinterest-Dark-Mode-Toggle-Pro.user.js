@@ -1,16 +1,14 @@
 // ==UserScript==
-// @name         Pinterest AMOLED Dark Mode Ultimate
-// @namespace    http://tampermonkey.net/
+// @name         Pinterest Dark Mode Toggle
+// @namespace    https://github.com/thetalhachy/pinterest-amoled-dark-mode
 // @version      1.0.0
-// @description  Polished AMOLED dark mode for Pinterest with settings menu
-// @author       You
+// @description  A customizable AMOLED dark theme for Pinterest
+// @author       Talha Mohammad Chowdhury
+// @license      AGPL-3.0-or-later
 // @match        https://www.pinterest.com/*
-// @match        https://*.pinterest.com/*
 // @grant        GM_addStyle
 // @grant        GM_getValue
 // @grant        GM_setValue
-// @grant        GM_registerMenuCommand
-// @run-at       document-start
 // ==/UserScript==
 
 (function () {
