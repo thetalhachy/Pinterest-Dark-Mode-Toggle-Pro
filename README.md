@@ -1,6 +1,6 @@
 # Pinterest AMOLED Dark Mode
 
-A beautiful customizable dark mode for Pinterest.
+A beautiful customizable dark mode for Pinterest. (More features loading...)
 
 ## Features
 
