@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Pinterest AMOLED Dark Mode Ultimate
 // @namespace    http://tampermonkey.net/
-// @version      5.0
+// @version      1.0.0
 // @description  Polished AMOLED dark mode for Pinterest with settings menu
 // @author       You
 // @match        https://www.pinterest.com/*
