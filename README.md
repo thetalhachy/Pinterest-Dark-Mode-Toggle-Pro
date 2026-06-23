@@ -20,7 +20,7 @@ https://www.tampermonkey.net/
 
 Then install the script:
 
-[Install Script](link here)
+[Install Script](https://github.com/thetalhachy/Pinterest-Dark-Mode-Toggle-Pro/raw/refs/heads/main/Pinterest-Dark-Mode-Toggle-Pro.user.js)
 
 ## License
 
